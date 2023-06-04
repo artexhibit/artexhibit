@@ -1,5 +1,5 @@
-<h1 align="center"> Hi 👋🏻, I'm Igor </br> 
-</h1>
+<h1 align="center"> Hi, I'm Igor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" </br> </h1>
+
 <p align="center">I love to learn everything about mobile and web development ⚡</p>
 <p align="center">No time to rest. Keep coding! 🚀</p>
 
