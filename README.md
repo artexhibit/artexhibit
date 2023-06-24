@@ -3,7 +3,23 @@
 <p align="center">I love to learn everything about mobile and web development ⚡</p>
 <p align="center">No time to rest. Keep coding! 🚀</p>
 
+
+  
 <div align="center">
+<table>
+  <tr>
+    <td>
+
+ ```swift
+if codeWorking {
+    while codeQuality < perfectCode {
+        continueWorkingOnCodeQuality()         
+    }
+ }
+ ```
+<td>
+
+ <div align="center">
   
   **Languages and Tools**
   
@@ -24,24 +40,13 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-712CF8?style=flat&logo=Bootstrap&logoColor=ffffff)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B7EF?style=flat&logo=Tailwind-CSS&logoColor=ffffff)
 </div>
-  
-<div align="center">
-<table>
-  <tr>
-    <td>
-
- ```swift
-if codeWorking {
-    while codeQuality < perfectCode {
-        continueWorkingOnCodeQuality()         
-    }
- }
- ```
-<td>
-
- ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artexhibit&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&layout=compact)
   </td> 
   </tr>
   </table>
   </div>
-  
+
+
+  <div align="center">
+    <img align=top src="https://github-stats-alpha.vercel.app/api?username=artexhibit"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=artexhibit&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&layout=compact"/>
+<div>
