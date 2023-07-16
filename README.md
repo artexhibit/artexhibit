@@ -40,4 +40,4 @@ public struct AboutMe {
 </a>
 </p>
 
-<p align="center">No time to rest. Keep coding! 🚀</p>
+<p align="center">No time to rest. Keep coding! <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25px"</p>
