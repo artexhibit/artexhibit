@@ -9,10 +9,10 @@ public struct AboutMe {
     let name = "Igor"
     let myPassion = "enjoy learning everything about mobile and web development ⚡"
     
-    let profession = "looking for a first job as iOS Engineer"
+    let profession = "looking for a first job as iOS Developer"
     
-    var preferredTechStack = ["swift", "swiftui", "uikit", "core data", "java script", "html", "sass/scss"]
-    var hasUsed = ["firebase", "tailwind", "bootstrap"]
+    var preferredTechStack = ["Swift", "SwiftUI", "UIKit", "Core Data", "Java Script", "HTML", "SASS/SCSS"]
+    var hasUsed = ["Firebase", "Tailwind", "Bootstrap"]
 }
 ```
 
@@ -37,6 +37,29 @@ public struct AboutMe {
 ![Firebase](https://img.shields.io/badge/-Firebase-FEA512?style=flat&logo=Firebase&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-712CF8?style=flat&logo=Bootstrap&logoColor=ffffff)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B7EF?style=flat&logo=Tailwind-CSS&logoColor=ffffff)
+
+**Contacts**
+
+[![Telegram Badge](https://img.shields.io/badge/-@artexhib1t-229ED9?style=flat&logo=Telegram&logoColor=white)](https://t.me/artexhib1t)
+[![LinkedIn Badge](https://img.shields.io/badge/-Igor_Volkov-0e76a8?style=flat&logo=LinkedIn&logoColor=white)]([https://t.me/artexhib1t](https://www.linkedin.com/in/iamigorvolkov))
+[![Telegram Badge](https://img.shields.io/badge/-igorcodes.ru-9e7d5b?style=flat&logo=Safari&logoColor=white)](https://igorcodes.ru)
+<br>
+
+<details>
+<summary>Projects (click to show)</summary>
+<br>
+    
+|  |  |
+| ------------- | ------------- |
+| [Kursvalut](https://github.com/artexhibit/Kursvalut) - currency converter, built on **Swift (UIKit)**, <br> using **MVC** pattern, **CoreData** and much more  | [CustomNumpad](https://github.com/artexhibit/CustomNumpad) - custom keyboard view, built with <br> **XIB** and **Storyboard** as a replace for iOS stock Numpad |
+| [CustomPopup](https://github.com/artexhibit/CustomPopup) - my implementation for a Popup, Apple <br> uses across the iOS system, using **XIB** and **UIKit** | [CustomUIViewWithDatePicker](https://github.com/artexhibit/CustomUIViewWithDatePicker) - practice in a custom views <br> creation, using **XIB** and **UIKit** and **UITapGestureRecognizer** |
+| [ExpandableCells](https://github.com/artexhibit/ExpandableCells) - creating an expandable table view <br> cells on **UIKit** and **Transform**  | [igorcodes.ru](https://github.com/artexhibit/igorcodes.ru) - my personal website, built from scratch, <br> using **SASS/SCSS** preprocessor |
+| [Project «NFT»](https://github.com/artexhibit/Fundamentals-of-algorithmization-and-programming/tree/main/HTML/Вёрстка%20HTML/Вёрстка%20NFT%20проекта%20(ПР%20№5%2027%3A12)) - built a landing page of website, <br> using basic **HTML** and **CSS**  | [Online cinema «LiveTV»](https://github.com/artexhibit/Fundamentals-of-algorithmization-and-programming/tree/main/HTML/Вёрстка%20Bootstrap/Онлайн%20кинотеатр%20LiveTV) - built a landing page of website, <br> using **Bootstrap** framework |
+| [Sushi shop «Riksha»](https://github.com/artexhibit/Fundamentals-of-algorithmization-and-programming/tree/main/HTML/Вёрстка%20SASS%2CSCSS/Магазин%20суши%20Riksha) - built a landing page of website, <br> using **SASS/SCSS** preprocessor  | [Bookstore «Pages»](https://github.com/artexhibit/Fundamentals-of-algorithmization-and-programming/tree/main/HTML/Вёрстка%20Tailwind/Книжный%20магазин%20Pages) - built a landing page of website, <br> using **Tailwind** framework  |
+
+</details>
+
+<br>
 
 <p align="center">
 <a href="https://github.com/artexhibit">
