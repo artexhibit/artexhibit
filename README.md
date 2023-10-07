@@ -1,8 +1,5 @@
-<div align="center">
-    
-  **Hi. Welcome to my GitHub!**
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px">
-  </div>
+<h1 align="center">Hi, I'm <a href="https://igorcodes.ru/" target="_blank">Igor</a>. Welcome to my GitHub!
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
 ```swift
 public struct AboutMe {
