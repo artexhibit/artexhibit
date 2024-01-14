@@ -1,17 +1,12 @@
 <h1 align="center">Hi, I'm <a href="https://igorcodes.ru/" target="_blank">Igor</a>. Welcome to my GitHub!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
-```swift
-public struct AboutMe {
-    let name = "Igor"
-    let myPassion = "enjoy learning everything about mobile and web development ⚡"
-    
-    let profession = "looking for a first job as iOS Developer"
-    
-    var preferredTechStack = ["Swift", "SwiftUI", "UIKit", "Core Data", "Java Script", "HTML", "SASS/SCSS"]
-    var hasUsed = ["Firebase", "Tailwind", "Bootstrap"]
-}
-```
+<picture><img src="/metrics.classic.svg" align="top" alt="Languages Used" width="58%"></picture><picture><img src="/metrics.plugin.isocalendar.fullyear.svg" align="top" alt="Languages Used" width="42%"></picture>
+<picture><img src="/metrics.plugin.languages.indepth.svg" align="top" alt="Languages Used" width="50%"></picture><picture><img src="/metrics.plugin.music.playlist.svg" align="top" alt="Languages Used" width="50%"></picture>
+<picture><img src="/metrics.plugin.habits.charts.svg" align="top" alt="Languages Used" width="50%"></picture><picture><img src="/metrics.plugin.stackoverflow.svg" align="top" alt="Languages Used" width="50%"></picture>
+<picture><img src="/metrics.plugin.repositories.svg" align="top" alt="Languages Used" width="50%"></picture><picture><img src="/metrics.plugin.stars.svg" align="top" alt="Languages Used" width="50%"></picture>
+<picture><img src="/metrics.plugin.leetcode.svg" align="top" alt="Languages Used" width="50%"></picture><picture><img src="/metrics.plugin.activity.svg" align="top" alt="Languages Used" width="50%"></picture>
+<picture><img src="/metrics.plugin.achievements.compact.svg" align="top" alt="Languages Used" width="50%"></picture><picture><img src="/metrics.plugin.reactions.svg" align="top" alt="Languages Used" width="50%"></picture>
 
  <div align="center">
   
@@ -20,16 +15,16 @@ public struct AboutMe {
 ![Swift](https://img.shields.io/badge/-UIKit-orange?style=flat&logo=swift&logoColor=ffffff)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-01C5DD?style=flat&logo=swift&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23ECD83E?style=flat&logo=javascript&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)\
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-%23CF649A?style=flat&logo=sass&logoColor=%23ffffff)
 ![JSON](https://img.shields.io/badge/-JSON-414141?style=flat&logo=JSON&logoColor=ffffff)
-![SQLite](https://img.shields.io/badge/-SQLite-2B8CCC?style=flat&logo=SQLite&logoColor=ffffff)\
+![SQLite](https://img.shields.io/badge/-SQLite-2B8CCC?style=flat&logo=SQLite&logoColor=ffffff)
 ![Sketch](https://img.shields.io/badge/-Sketch-%23FDAD00?style=flat&logo=sketch&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-9C56F6?style=flat&logo=figma&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
-![Xcode](https://img.shields.io/badge/-Xcode-1897EA?style=flat&logo=xcode&logoColor=ffffff)\
+![Xcode](https://img.shields.io/badge/-Xcode-1897EA?style=flat&logo=xcode&logoColor=ffffff)
 ![CocoaPods](https://img.shields.io/badge/-CocoaPods-EF2A00?style=flat&logo=CocoaPods&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FEA512?style=flat&logo=Firebase&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-712CF8?style=flat&logo=Bootstrap&logoColor=ffffff)
@@ -58,11 +53,3 @@ public struct AboutMe {
 
 <br>
 
-<p align="center">
-<a href="https://github.com/artexhibit">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=artexhibit&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=artexhibit&layout=compact&langs_count=8&theme=swift"/>
-</a>
-</p>
-
-<p align="center">No time to rest. Keep coding! <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25px"</p>
