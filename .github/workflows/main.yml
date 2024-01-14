@@ -112,7 +112,7 @@ jobs:
         token: NOT_NEEDED
         base: ""
         plugin_stackoverflow: yes
-        plugin_stackoverflow_sections: answers-recent, questions-top
+        plugin_stackoverflow_sections: answers-recent
         plugin_stackoverflow_limit: 1
         plugin_stackoverflow_user: 16471289
 
@@ -135,15 +135,3 @@ jobs:
         plugin_leetcode: yes
         plugin_leetcode_user: artexhibit
         plugin_leetcode_sections: solved, skills
-
-    - name: Website scrennshot
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics.plugin.screenshot.svg
-        token: NOT_NEEDED
-        base: ""
-        plugin_screenshot: yes
-        plugin_screenshot_title: Check Out My Website!
-        plugin_screenshot_selector: ".name"
-        plugin_screenshot_wait: 2000
-        plugin_screenshot_url: https://igorcodes.ru
