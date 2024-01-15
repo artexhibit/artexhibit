@@ -32,8 +32,8 @@ jobs:
           tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
         plugin_languages_indepth: yes
         plugin_languages_details: lines, bytes-size
-        plugin_languages_limit: 4
-        plugin_languages_analysis_timeout: 15
+        plugin_languages_limit: 8
+        plugin_languages_analysis_timeout: 50
         
     - name: Full-year calendar
       uses: lowlighter/metrics@latest
@@ -67,15 +67,14 @@ jobs:
         plugin_habits_languages_limit: 3
         config_timezone: Europe/Moscow
 
-    - name: Comment reactions
+    - name: GitHub topics Labels
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.reactions.svg
-        token: ${{ secrets.METRICS_TOKEN }}
+        filename: metrics.plugin.topics.svg
+        token: NOT_NEEDED
         base: ""
-        plugin_reactions: yes
-        plugin_reactions_limit: 100
-        plugin_reactions_details: percentage
+        plugin_topics: yes
+        plugin_topics_limit: 20
 
     - name: Featured repositories
       uses: lowlighter/metrics@latest
@@ -105,7 +104,7 @@ jobs:
         plugin_activity: yes
         plugin_activity_limit: 3
 
-    - name: Top answers from stackoverflow
+    - name: Top answers from Stackoverflow
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.stackoverflow.svg
@@ -126,7 +125,7 @@ jobs:
         plugin_music_playlist: https://embed.music.apple.com/ru/playlist/favorites/pl.u-XkD0vlEcD3RmMbW?l
         plugin_music_limit: 1
 
-    - name: LeetCode
+    - name: LeetCode statistics
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.leetcode.svg
