@@ -24,6 +24,7 @@
                             <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.">json</div>
                             <div class="label" title="Firebase is a mobile app development platform that provides data analysis and database web services for developers.">firebase</div>
+                            <div class="label" title="Swift is a modern programming language focused on safety, performance, and expressivity.">swift</div>
                             <div class="label" title="Sass is a stable extension to classic CSS.">sass</div>
                             <div class="label" title="Sketch is a vector graphics editor for Apple&amp;apos;s macOS, used primarily for user interface and icon design.">sketch</div>
                             <div class="label" title="Extensible editor for Windows, macOS, and Linux, for coding in any programming language.">visual studio code</div>
