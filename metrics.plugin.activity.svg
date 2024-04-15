@@ -29,6 +29,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#af060cb</div>
+                                        <div class="message">add pickedLogisticsType to CalculationResultCell set method, create FLCOptionsCollectionViewDelegate in FLCOptionsCollectionView</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">artexhibit/FLCCalculator</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#74d9bde</div>
                                         <div class="message">create FLCOptionsCollectionViewCell and setup its layout, create FLCOptionsCollectionView and setup its layout, delegate and dataSource, create FLCOptionsTableViewHeader and setup its layout, refactor UIColor extension, add removeBottomBorder in UINavController ext,  refactor pinToEdges UIVIew ext method to apply different padding types, create getOptions method</div>
                                     </div>
@@ -51,26 +71,6 @@
                                     <div class="commit">
                                         <div class="sha">#aa2af5c</div>
                                         <div class="message">create constants for warehouse strings, add canDisplay property in CaclulationResultItem, make configureInitialData dynamic based on options picked by user, fix behaviour of departurePickerButton, modify adjustProgressView method to work with 2 buttons</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">artexhibit/FLCCalculator</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d31d6ac</div>
-                                        <div class="message">change UISheetPresentationController customSizeDetent height, fix bug in updateItemsInUserDefaults when storedItems saved instead of new, remove getDeliveryToWarehouseData, refactor getDeliveryToWarehouse, add didPressRetryButton method to CalculationResultVC, create calculationResults dict in TotalPriceVC instead of prices and days arrays</div>
                                     </div>
                                 </div>
                             </section>
