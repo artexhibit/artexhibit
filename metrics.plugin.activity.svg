@@ -29,6 +29,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#dd45f8e</div>
+                                        <div class="message">fix layout for DocumentCell, add download progress tracking for DocumentsCollectionView, create FileSystemManager, add getLocalFileURL to it, create downloadDocument in FirebaseManager</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">artexhibit/FLCCalculator</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#07ef7c3</div>
                                         <div class="message">add shimmeringView to DocumentsCell, create canRemoveShimmer bool and pass it from UsefulInfo VC to DocumentsCell to remove the shimerView, add getIsShimmering method in FLCShimmeringView to track isShimmering state, create Document struct, create UsefulInfoHelper</div>
                                     </div>
@@ -51,26 +71,6 @@
                                     <div class="commit">
                                         <div class="sha">#a91bf97</div>
                                         <div class="message">fix layout, add title for FLCRoundButton, add textAlignment and underline option for FLCTextButton, create and setup layout for BonusSystemCell, rename animateCell to makeViewCanBeTapableAnimation and make it UIView ext, create and setup layout for DocumentsCell, rename FLCOptionsCollectionViewCell to OptionsCell, create and setup layout for UsefulInfoContentCell, UsefulInfoDocumentsCell, DocumentsCollectionView, create FLCCollectionView parent class, rename FLCOptionsTableViewHeader to OptionsTableViewHeader, create UsefulInfoTableViewHeader, set different messages in MFMailComposeViewController, change design for contact buttons in FLCPersonalManagerView, add presentSafariVC as UIVC ext, create UsefulInfoContent, FLCDocument struct, create BonusSystemVC, add usefulInfoContents and usefulInfoDocuments to UsefulInfoVC</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">artexhibit/FLCCalculator</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e4013b0</div>
-                                        <div class="message">create AttachmentManager to store functionality of creating an email attachment, pass confirmedCalculation to FLCPersonalManagerView, delete isFavourite property in CoreData and TotalPriceData, add getReadableName in FLCLogisticsType enum</div>
                                     </div>
                                 </div>
                             </section>
