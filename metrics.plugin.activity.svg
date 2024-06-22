@@ -29,6 +29,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#3c5e286</div>
+                                        <div class="message">make delete func generic in KeychainManager, add ) when third number pressed, remove isUserLoggedIn in UserDefaultsManager, rename properties in AuthVC and ProfileSettingsVC, delete LoginVCHelper and move it code to AuthVCHelper</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">artexhibit/FLCCalculator</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#9842a71</div>
                                         <div class="message">move pinToSafeArea method from tableView ext to UIView ext, create loginWithPhoneNumber, registerUserWith, getUser, getBubbleDictionary methods in AuthorizationManager, rename name to fio, companyTaxPayerID to inn, customsDeclarationsAmountPerYear to dtCount in FLCUser, create FLCUSerCredentials model, add FLCBubbleUserDataKeys enum</div>
                                     </div>
@@ -51,26 +71,6 @@
                                     <div class="commit">
                                         <div class="sha">#262cd1d</div>
                                         <div class="message">create AuthorizationManager, add isPhoneNumberExist, loginWithPhoneNumber, getUserInfo, createPhoneNumberRequest, createAuthorizationRequest, getUser methods, create KeychainManager and add save, read and delete functions, change companyTaxPayerID and customsDeclarationsAmountPerYear type to Int in FLCUser, create FLCUserResponse, FLCUserResponseData, FLCUserCredentials, FLCUserCredentialsResponse, FLCUserCredentialsResponseData, PhoneNumberExistResponse, ResponseData models, create KeychainStorable protocol, FLCHTTPMethod and FLCHTTPHeaderField enums</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">artexhibit/FLCCalculator</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7774275</div>
-                                        <div class="message">remove canShowPopup from updateCurrencyData and updateCalculationData methods, remove force unwrap in oldStoreURL and sharedStoreURL from Persistence, add FLCNotificationServiceDataKey, create updateData method in Notification Service</div>
                                     </div>
                                 </div>
                             </section>
