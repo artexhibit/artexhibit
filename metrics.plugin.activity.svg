@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#15b2d7d</div>
-                                        <div class="message">create CalculatorTopBar with Haze effect, update Platform.kt, CalculationListScreen</div>
+                                        <div class="sha">#e3b9cc5</div>
+                                        <div class="message">refactor navigation, update Calculation domain and PlatformType</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a4b39c5</div>
-                                        <div class="message">integrate CalculationListViewModel in App.kt and Modules.kt, create CalculatorTopAppBar expect/actual composable, add Route sealed interface</div>
+                                        <div class="sha">#212ca60</div>
+                                        <div class="message">refactor core domain and presentation layers, add AppTheme</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">artexhibit/FLCCalculatorKMP</span>
+                                        <span class="repo">artexhibit/FLCCalculatorAndroid</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b128c9b</div>
-                                        <div class="message">remove AppTheme and compose-cupertino dependency, create CalculationListScreen, CalculationListViewModel, CalculationListState, CalculationListAction</div>
+                                        <div class="sha">#2cb1cd7</div>
+                                        <div class="message">add AppTheme</div>
                                     </div>
                                 </div>
                             </section>
