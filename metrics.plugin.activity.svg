@@ -29,6 +29,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#15b2d7d</div>
+                                        <div class="message">create CalculatorTopBar with Haze effect, update Platform.kt, CalculationListScreen</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">artexhibit/FLCCalculatorKMP</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#a4b39c5</div>
                                         <div class="message">integrate CalculationListViewModel in App.kt and Modules.kt, create CalculatorTopAppBar expect/actual composable, add Route sealed interface</div>
                                     </div>
@@ -51,26 +71,6 @@
                                     <div class="commit">
                                         <div class="sha">#b128c9b</div>
                                         <div class="message">remove AppTheme and compose-cupertino dependency, create CalculationListScreen, CalculationListViewModel, CalculationListState, CalculationListAction</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">artexhibit/FLCCalculatorKMP</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9d863b7</div>
-                                        <div class="message">create AppTheme.kt, update App.kt to use AppTheme instead of MaterialTheme, add compose-cupertino dependency</div>
                                     </div>
                                 </div>
                             </section>
