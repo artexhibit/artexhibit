@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cc20d74</div>
-                                        <div class="message">add press animation to CalculationCard</div>
+                                        <div class="sha">#bbffcd2</div>
+                                        <div class="message">create AppEmptyStateView, add a new fadeInOnAppear modifier extension, add AppEmptyStateView to CalculationListScreen, add new string resources for the empty state messages</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cf6a5cb</div>
-                                        <div class="message">create CalculationActionButton and CalculationFloatingActionButton, add actions to AppTopBar</div>
+                                        <div class="sha">#c06a971</div>
+                                        <div class="message">create AppButton with shine effect</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#379a57b</div>
-                                        <div class="message">Rename base package name from flccalculator_kmp to flccalculator, add padding for web in CalculationListScreen, fix wasmJs Number extension</div>
+                                        <div class="sha">#395939b</div>
+                                        <div class="message">add shimmer effect Modifier extension</div>
                                     </div>
                                 </div>
                             </section>
