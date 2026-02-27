@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="289" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="256" class="">
     <defs>
         <style/>
     </defs>
@@ -26,7 +26,7 @@
                                         <span>starred 6 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">A powerful, native macOS screen recorder with a built-in timeline editor. Capture your screen or iOS devices, then instantly trim, apply auto-zoom, style backgrounds, and export in high quality.</div>
+                                <div class="field description">Screen recording on macOS, from capture to delivery, no detours.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
