@@ -16,14 +16,17 @@ jobs:
     - name: Classic Template
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.classic.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, repositories
         plugin_lines: yes
+        plugin_lines_sections: base
           
     - name: Coding Languages Indepth
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.languages.indepth.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
@@ -38,6 +41,7 @@ jobs:
     - name: Full-year calendar
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.isocalendar.fullyear.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
@@ -47,6 +51,7 @@ jobs:
     - name: Recently starred repos
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.stars.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
@@ -56,6 +61,7 @@ jobs:
     - name: Coding habits and activity
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.habits.charts.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
@@ -70,6 +76,7 @@ jobs:
     - name: GitHub topics Labels
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.topics.svg
         token: NOT_NEEDED
         base: ""
@@ -79,15 +86,17 @@ jobs:
     - name: Featured repositories
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.repositories.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_repositories: yes
-        plugin_repositories_featured: artexhibit/Kursvalut, artexhibit/igorcodes.ru, artexhibit/Fundamentals-of-algorithmization-and-programming
+        plugin_repositories_featured: votnakodil/Kursvalut, votnakodil/igorcodes.ru, votnakodil/Fundamentals-of-algorithmization-and-programming
 
     - name: Achievements
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.achievements.compact.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
@@ -98,6 +107,7 @@ jobs:
     - name: Recent activity
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.activity.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
@@ -107,6 +117,7 @@ jobs:
     - name: Top answers from Stackoverflow
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.stackoverflow.svg
         token: NOT_NEEDED
         base: ""
@@ -118,6 +129,7 @@ jobs:
     - name: Apple Music - Random track from playlist
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.music.playlist.svg
         token: NOT_NEEDED
         base: ""
@@ -128,6 +140,7 @@ jobs:
     - name: LeetCode statistics
       uses: lowlighter/metrics@latest
       with:
+        user: votnakodil
         filename: metrics.plugin.leetcode.svg
         token: NOT_NEEDED
         base: ""
