@@ -20,8 +20,6 @@ jobs:
         filename: metrics.classic.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, repositories
-        plugin_lines: yes
-        plugin_lines_sections: base
           
     - name: Coding Languages Indepth
       uses: lowlighter/metrics@latest
