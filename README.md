@@ -4,8 +4,8 @@
 <div align="center">
  
   <picture>![Contact](https://img.shields.io/badge/-CONTACTS:-FF122E?style=flat&logo=maildotru&logoColor=white)</picture>
-  [![Telegram Badge](https://img.shields.io/badge/-@artexhib1t-229ED9?style=flat&logo=Telegram&logoColor=white)](https://t.me/artexhib1t)
-  [![LinkedIn Badge](https://img.shields.io/badge/-Igor_Volkov-0e76a8?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/igorvo1kov)
+  [![Telegram Badge](https://img.shields.io/badge/-@tochnoetoon-229ED9?style=flat&logo=Telegram&logoColor=white)](https://t.me/tochnoetoon)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Igor_Volkov-0e76a8?style=flat&logo=LinkedIn&logoColor=white&label=LinkedIn)](https://www.linkedin.com/in/igorvo1kov)
   [![Website Badge](https://img.shields.io/badge/-igorcodes.ru-9e7d5b?style=flat&logo=Safari&logoColor=white)](https://igorcodes.ru)
  
 </div>
