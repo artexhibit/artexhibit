@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
     - name: Classic Template
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.classic.svg
@@ -22,7 +22,7 @@ jobs:
         base: header, repositories
           
     - name: Coding Languages Indepth
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.languages.indepth.svg
@@ -37,7 +37,7 @@ jobs:
         plugin_languages_analysis_timeout: 50
         
     - name: Full-year calendar
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.isocalendar.fullyear.svg
@@ -47,7 +47,7 @@ jobs:
         plugin_isocalendar_duration: full-year
 
     - name: Recently starred repos
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.stars.svg
@@ -57,7 +57,7 @@ jobs:
         plugin_stars_limit: 3
 
     - name: Coding habits and activity
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.habits.charts.svg
@@ -72,7 +72,7 @@ jobs:
         config_timezone: Europe/Moscow
 
     - name: GitHub topics Labels
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.topics.svg
@@ -82,7 +82,7 @@ jobs:
         plugin_topics_limit: 20
 
     - name: Featured repositories
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.repositories.svg
@@ -92,7 +92,7 @@ jobs:
         plugin_repositories_featured: votnakodil/Kursvalut, votnakodil/igorcodes.ru, votnakodil/Fundamentals-of-algorithmization-and-programming
 
     - name: Achievements
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.achievements.compact.svg
@@ -103,7 +103,7 @@ jobs:
         plugin_achievements_limit: 5
 
     - name: Recent activity
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.activity.svg
@@ -113,7 +113,7 @@ jobs:
         plugin_activity_limit: 3
 
     - name: Top answers from Stackoverflow
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.stackoverflow.svg
@@ -125,7 +125,7 @@ jobs:
         plugin_stackoverflow_user: 16471289
 
     - name: Apple Music - Random track from playlist
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.music.playlist.svg
@@ -136,7 +136,7 @@ jobs:
         plugin_music_limit: 1
 
     - name: LeetCode statistics
-      uses: lowlighter/metrics@latest
+      uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
       with:
         user: votnakodil
         filename: metrics.plugin.leetcode.svg
